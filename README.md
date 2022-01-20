@@ -11,3 +11,7 @@ The objective of this post is to demonstrate how to detect and count faces in an
  
 # For PC or Laptop webcam code :
    cap = cv2.VideoCapture(0)
+   
+# ScreenShot
+
+![Screenshot (112)](https://user-images.githubusercontent.com/76691957/150380354-f28eece6-31e2-4545-8fe3-fc80b9d13d66.png)
