@@ -1,17 +1,26 @@
-# Face-count
-The objective of this post is to demonstrate how to detect and count faces in an image, using OpenCV and python.
+# Birds-Animals-Classification
+A unique Web app that shows different Birds 269- Species Classification , Domestic Animals Classification And Cats OR Dogs Identification You can choose the options from the left. It has a sidebar with Bird Species Classification, Domestio Animals Classification ,Some Birds and Animals Scientific Name.
 
 # Libraries required to be installed using pip Command:
 1. cv2
 2. numpy
-3. dlib
+3. streamlit
+4. tensorflow
+5. keras
 
-# Using webcam code:
- cap = cv2.VideoCapture(1)
- 
-# For PC or Laptop webcam code :
-   cap = cv2.VideoCapture(0)
-   
-# ScreenShot
+# Download Birds Dataset/model
 
-![Screenshot (112)](https://user-images.githubusercontent.com/76691957/150380354-f28eece6-31e2-4545-8fe3-fc80b9d13d66.png)
+  https://drive.google.com/file/d/1wjqfm0Tvh9KVJavEFQ45_rFLfwS4xMYG/view?usp=sharing
+
+# Functions are:
+
+1. Bird Species Classification
+2. Domestic Animals Classification
+3. Birds Scientific Name
+4. Animals Scientific Name
+
+# Demo Video
+  
+   https://user-images.githubusercontent.com/76691957/175107602-6314c6a7-cae8-4884-81a1-6f83139fe4fd.mp4
+
+
